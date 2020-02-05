@@ -2,15 +2,11 @@
 
 # Description: This script has created to stop windows update service simply and  
 
-# properly. 
-
-# All right received with Blue Agile company 
+# properly.  
 
 # Author: Masoud Haji Hassan Pour 
 
-# Contact details: mas.hassanpour@gmail.com 
-
-# Date: 04/02/2020 
+# Contact details: mas.hassanpour@gmail.com  
 
 # Version : 1.0.0 
 
